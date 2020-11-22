@@ -1,0 +1,13 @@
+{
+  "name": "Darja sentences flagger",
+  "version": "0.1",
+  "description": "Select & flag a darja sentence",
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "icons": {
+    "128": "images/d.jpg"
+  },
+  "permissions": ["contextMenus"],
+  "manifest_version": 2
+}
